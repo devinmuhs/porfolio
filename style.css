@@ -158,11 +158,11 @@ a:hover {
 .resume_flex, .resume_flex2, .resume_flex3, .resume_flex4 {
     display: flex;
     justify-content: space-between;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .title {
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 10px;
     font-weight: bold;
 }
@@ -173,7 +173,7 @@ a:hover {
     font-style: italic;
 }
 .subheader {
-    font-size: 25px;
+    font-size: 15px;
     margin-bottom: 10px;
 }
 
@@ -190,9 +190,13 @@ a:hover {
     text-align: right;
 }
 
+.email {
+    text-align: right;
+}
 .description {
     margin-bottom: 10px;
     font-size: 15px;
+    padding-left: 30px;
 }
 
 .content_wrap {
